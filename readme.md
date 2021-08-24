@@ -1,6 +1,6 @@
 # About
 
-This is an expense manager app made in ReactJS.
+You can keep track of your expenses using this app. It is made in ReactJS.
 
 # How to run
 
